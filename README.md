@@ -1,4 +1,4 @@
-# 💫 Hi There I'm Al-Moayyad Abuljdail:
+# Hi there, I'm Tariq! 👋
 🌱 I’m currently learning AI/ML<br>⚡ Fun fact I can bench 100kg
 
 
