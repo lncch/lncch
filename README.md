@@ -1,4 +1,4 @@
-# Hi there, I'm Tariq! 👋
+# Hi there, I'm Al-Moayyad! 👋
 🌱 I’m currently learning AI/ML<br>⚡ Fun fact I can bench 100kg
 
 
