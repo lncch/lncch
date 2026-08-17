@@ -1,5 +1,5 @@
 # Hi there, I'm Al-Moayyad! 👋
-🌱 I’m currently learning AI/ML<br>⚡ Fun fact I can bench 100kg
+🌱 I’m currently learning AI/ML<br>⚡ Fun fact I can solve a Rubik's cube
 
 
 ## 🌐 Socials:
