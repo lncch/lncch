@@ -1,4 +1,4 @@
-CS student at King Abdulaziz University. I work on ML research and systems, and I can solve a Rubik's cube (`R U R' U'` is muscle memory by now).
+CS student at King Abdulaziz University. I work on ML research and systems, and I can solve a Rubik's cube.
 
 **Research**
 
@@ -11,5 +11,3 @@ Python, Rust, PyTorch, NumPy, pandas, scikit-learn. Also Java and Flutter.
 **Elsewhere**
 
 [almoayyad.dev](https://almoayyad.dev) · [LinkedIn](https://linkedin.com/in/almoayyad-abuljdail-3736402b9) · [X](https://x.com/1lnch) · [Email](mailto:almoayyad9@gmail.com)
-
-<sub>This README is short on purpose. ACS would have stopped reading by now.</sub>
