@@ -1,5 +1,3 @@
-# Al-Moayyad Abuljdail
-
 CS student at King Abdulaziz University. I work on ML research and systems, and I can solve a Rubik's cube.
 
 **Research**
